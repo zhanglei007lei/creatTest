@@ -1,4 +1,4 @@
-
+successful testing
 Ctrl+Alt+f2 命令模式
 Ctrl+Alt+F7 图形模式  切换
 su (userName) 切换用户
